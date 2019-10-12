@@ -1,0 +1,56 @@
+.container{
+  width: 100%;
+}
+
+.nav-link{
+color: white;
+
+}
+
+.nav-link:hover{
+  background-color: #007bff;
+  border-radius: 13px;
+  color: black;
+}
+
+.top{
+  color: black;
+  font-size: 20px;
+  font-style: italic;
+  float: right;
+  margin-right: 20px;
+
+}
+
+.top:hover{
+color:#007bff;
+}
+.btn{
+
+margin-top: 7px;
+
+  width: 120px;
+}
+
+li{
+  padding: 0px 15px;
+}
+a{
+  font-size: 20px;
+}
+
+.heading{
+
+  font-size: 30px;
+  color: #007bff;
+}
+
+img:hover{
+  filter: grayscale(100%);
+  cursor: pointer;
+
+}
+.card-title{
+  color: white;
+  margin-top: 345px;
+}
